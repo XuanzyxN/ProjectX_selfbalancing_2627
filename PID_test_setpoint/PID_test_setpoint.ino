@@ -1,6 +1,6 @@
 #include "I2Cdev.h"
 #include <Wire.h>
-#include <PID_v1.h> //From https://github.com/br3ttb/Arduino-PID-Library/blob/master/PID_v1.h
+#include <PID_v 1.h> //From https://github.com/br3ttb/Arduino-PID-Library/blob/master/PID_v1.h
 #include "MPU6050_6Axis_MotionApps20.h" //https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050
 MPU6050 mpu;
 
